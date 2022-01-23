@@ -1,0 +1,9 @@
+To run the react native application
+  npx react-native start 
+  
+  
+  
+To run the android application
+  npx react-native run-android
+  
+  
